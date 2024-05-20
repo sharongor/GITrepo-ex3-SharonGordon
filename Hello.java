@@ -4,5 +4,6 @@ public class Hello{
 		for( int i = 1 ; i <= 10 ; i++){
 			System.out.println("Black hole sun..."+i);
 		}
+		System.out.println("five is " + j);
 	}
 }
